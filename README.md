@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra conteúdo sobre programação me segui nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/erasmocarlos02?igsh=Z2s2OHM4Nm4za2th" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
